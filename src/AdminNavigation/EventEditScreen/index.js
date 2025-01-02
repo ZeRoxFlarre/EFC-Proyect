@@ -1,0 +1,1 @@
+export {default} from './EventEditScreen'; // Import and export the EventEditScreen component from the EventEditScreen.js file

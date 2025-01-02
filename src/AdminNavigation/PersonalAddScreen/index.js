@@ -1,0 +1,1 @@
+export {default} from './PersonalAddScreen'; //se exporta el archivo PersonalAddScreen.js para poder ser usado en otros archivos
